@@ -1,0 +1,18 @@
+{
+  "_format": "hh-sol-artifact-1",
+  "contractName": "IClub",
+  "sourceName": "contracts/getwealthNFT.sol",
+  "abi": [
+    {
+      "inputs": [],
+      "name": "iDeclareBeingRich",
+      "outputs": [],
+      "stateMutability": "nonpayable",
+      "type": "function"
+    }
+  ],
+  "bytecode": "0x",
+  "deployedBytecode": "0x",
+  "linkReferences": {},
+  "deployedLinkReferences": {}
+}
